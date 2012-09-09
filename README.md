@@ -1,10 +1,6 @@
 SgPLabAPP
 =========
 
-Santa gula Lab app
+SG Lab app
 
 Edicion bluefish
-
-edicion
-
-solo commit
