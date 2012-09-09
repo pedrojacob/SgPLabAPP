@@ -1,4 +1,4 @@
-SgPLabAPP
+SgLabAPP
 =========
 
 SG Lab app
