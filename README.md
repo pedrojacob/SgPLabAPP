@@ -1,4 +1,4 @@
 SgPLabAPP
 =========
 
-Santa gula Lab app
+SG Lab app
